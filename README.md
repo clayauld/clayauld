@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm Clayton Auld. By day, I work in telecommunications as a Radio Frequency Engineer. When I'm not at $DAYJOB, I dabble in open source home automation systems, Linux system administration, and network infrastructure. I manage several cloud VPSs using projects like [Pi-Hole](https://pi-hole.net), secure DNS [(DNS-over-TLS)](https://github.com/clayauld/Secure-Adblocking-DNS), and other small things. I also run my own [UnRAID server](unraid.net) out of my closet for cloud storage and [home automation](home-assistant.io).
+I'm Clayton Auld. By day, I work in telecommunications as a Radio Frequency Engineer. When I'm not at $DAYJOB, I dabble in open source home automation systems, Linux system administration, and network infrastructure. I manage several cloud VPSs using projects like [Pi-Hole](https://pi-hole.net), secure DNS [(DNS-over-TLS)](https://github.com/clayauld/Secure-Adblocking-DNS), and other small things. I also run my own [UnRAID server](https://unraid.net) out of my closet for cloud storage and [home automation](https://home-assistant.io).
 
 I am an open source software and hardware enthusiast, who loves to play with small embedded systems (think ESP32, STM32, Arduino, etc) for home automation. I believe access to free and open source software is crucial for our society and for the success of modern business and infrastructure. 
 
 Current favorite projects include:
-* [Home Assistant](home-assistant.io)
-* [ESPHome](esphome.io)
+* [Home Assistant](https://home-assistant.io)
+* [ESPHome](https://esphome.io)
 * [Home Assistant HACS](https://hacs.xyz/)
 * [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) 
 * [Fish budspencer theme](https://github.com/oh-my-fish/theme-budspencer) (Disclaimer: I am the maintainer)
