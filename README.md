@@ -16,7 +16,7 @@ I am also an avid user of Linux/GNU systems and love the WSL integration into Wi
 Most of my GitHub work centers around home automation, Linux administration, and embedded systems. I have contributed to [Home Assistant HACS](https://hacs.xyz/), and manage the [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) [budspencer theme](https://github.com/oh-my-fish/theme-budspencer) for the [fish shell](https://fishshell.com/).
 
 <div>
-<img align="center" valign="top" src="https://github-readme-stats.vercel.app/api?username=clayauld&count_private=true&show_icons=true&theme=dark" /> <img align="center" valign="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clayauld&layout=compact&theme=dark" />
+<img align="center" valign="top" src="https://github-readme-stats.vercel.app/api?username=clayauld&count_private=true&show_icons=true&theme=light" /> <img align="center" valign="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clayauld&layout=compact&theme=light" />
 </div>
 <!--
 **clayauld/clayauld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
