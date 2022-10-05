@@ -5,12 +5,12 @@ I'm Clayton Auld. By day, I work in telecommunications as a Forecasting Engineer
 I am an open source software and hardware enthusiast, who loves to play with small embedded systems (think ESP32, STM32, Arduino, etc) for home automation. I believe access to free and open source software is crucial for our society and for the success of modern business and infrastructure. 
 
 Current favorite projects include:
-* [SkiffOS](https://github.com/skiffos/SkiffOS)
-* [Home Assistant](https://home-assistant.io)
-* [ESPHome](https://esphome.io)
-* [Home Assistant HACS](https://hacs.xyz/)
-* [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) 
-* [Fish budspencer theme](https://github.com/oh-my-fish/theme-budspencer) (Disclaimer: I am the maintainer)
+* [SkiffOS](https://github.com/skiffos/SkiffOS): Buildroot-based lightweight Linux system for computers and embedded systems. It utilizes Docker containers to decouple the Linux/GNU kernel and BSP from userspace.
+* [Home Assistant](https://home-assistant.io): Home Automation system on steroids, built to integrate and make dissimilar systems communicate well.
+* [ESPHome](https://esphome.io): A system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
+* [Home Assistant HACS](https://hacs.xyz/): Home Assistant Community Store
+* [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish): Fish shell
+* [Fish budspencer theme](https://github.com/oh-my-fish/theme-budspencer) (Disclaimer: I am a maintainer)
 
 I am also an avid user of Linux/GNU systems and love the WSL integration into Windows 10.
 
