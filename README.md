@@ -5,6 +5,7 @@ I'm Clayton Auld. By day, I work in telecommunications as a Forecasting Engineer
 I am an open source software and hardware enthusiast, who loves to play with small embedded systems (think ESP32, STM32, Arduino, etc) for home automation. I believe access to free and open source software is crucial for our society and for the success of modern business and infrastructure. 
 
 Current favorite projects include:
+* [SkiffOS](https://github.com/skiffos/SkiffOS)
 * [Home Assistant](https://home-assistant.io)
 * [ESPHome](https://esphome.io)
 * [Home Assistant HACS](https://hacs.xyz/)
@@ -13,7 +14,7 @@ Current favorite projects include:
 
 I am also an avid user of Linux/GNU systems and love the WSL integration into Windows 10.
 
-Most of my GitHub work centers around home automation, Linux administration, and embedded systems. I have contributed to [Home Assistant HACS](https://hacs.xyz/), and manage the [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) [budspencer theme](https://github.com/oh-my-fish/theme-budspencer) for the [fish shell](https://fishshell.com/).
+Most of my GitHub work centers around home automation, Linux administration, and embedded systems. I have contributed to [SkiffOS](https://github.com/skiffos/SkiffOS) in the form of bug reports and build testing, [Home Assistant HACS](https://hacs.xyz/), and manage the [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) [budspencer theme](https://github.com/oh-my-fish/theme-budspencer) for the [fish shell](https://fishshell.com/).
 
 <div>
 <img align="center" valign="top" src="https://github-readme-stats.vercel.app/api?username=clayauld&count_private=true&show_icons=true&theme=light" /> <img align="center" valign="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clayauld&layout=compact&theme=light" />
