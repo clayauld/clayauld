@@ -10,7 +10,6 @@ Current favorite projects include:
 * [ESPHome](https://esphome.io): A system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
 * [Home Assistant HACS](https://hacs.xyz/): Home Assistant Community Store
 * [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish): Fish shell
-* [Fish budspencer theme](https://github.com/oh-my-fish/theme-budspencer) (Disclaimer: I am a maintainer)
 
 I am also an avid user of Linux/GNU systems and love the WSL integration into Windows 10.
 
